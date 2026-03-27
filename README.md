@@ -54,24 +54,3 @@ Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvo
 <br/>
 
 ------
-
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="(https://github-readme-stats.vercel.app/api?username=gabrielmiras&show_icons=true&theme=transparent)" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmiras&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
