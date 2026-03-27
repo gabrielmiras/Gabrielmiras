@@ -45,16 +45,8 @@ Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br clear="all">
-<br/>
 
-> *Em 2026, meu foco será evoluir em:*  
-> - Desenvolvimento Web (HTML, CSS, JavaScript)  
-> - Backend com Java e C#
-> - Versionamento com Git/GitHub  
-> - Construção de portfólio com projetos reais  
-
----
+------
 
 
 ### 📊 Estatísticas
