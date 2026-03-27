@@ -64,7 +64,7 @@ Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BcwKmgEUwtHTTvLdHjToAsD9&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="(https://github-readme-stats.vercel.app/api?username=gabrielmiras&show_icons=true&theme=transparent)" 
   />
 
 <img 
