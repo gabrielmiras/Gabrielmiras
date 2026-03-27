@@ -1,6 +1,7 @@
-# Gabriel Z. Miranda
+#  👨🏻‍💻 Gabriel Z. Miranda
 
-** Estudante de DSM Fatec Indaiatuba**
+**`Estudante de DSM Fatec Indaiatuba`**
+
 
 Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvolvimento de Software. Acredito que a melhor forma de aprender é fazendo, por isso foco meu tempo na criação de projetos e na realização de cursos. Estou no início da minha jornada, mas com foco total em me tornar um desenvolvedor de alto nível e construir um portfólio sólido.
 
@@ -46,6 +47,15 @@ Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvo
 
 <br/>
 <br/>
+
+> *Em 2026, meu foco será evoluir em:*  
+> - Desenvolvimento Web (HTML, CSS, JavaScript)  
+> - Backend com Java e C#
+> - Versionamento com Git/GitHub  
+> - Construção de portfólio com projetos reais  
+
+---
+
 
 ### 📊 Estatísticas
 
