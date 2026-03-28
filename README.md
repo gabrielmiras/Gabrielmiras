@@ -54,3 +54,6 @@ Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvo
 <br/>
 
 ------
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielmiras&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
