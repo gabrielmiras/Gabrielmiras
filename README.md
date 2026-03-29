@@ -55,7 +55,7 @@ Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvo
 
 ------
 <div style="flex-basis: 48%;">
-  <h3>Ferramentas e estruturas</h3>
+### 💻<h3>Ferramentas e estruturas</h3>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" alt="VSCode" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="30" width="30" alt="PyCharm" />
