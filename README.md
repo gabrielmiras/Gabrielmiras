@@ -61,6 +61,8 @@ Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvo
   <p align="left">
     <img align="center" alt="VSCode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="PyCharm" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+     <img src="https://skillicons.dev/icons?i=github" width="40" />   
   </p>
 </div>
 
