@@ -60,7 +60,7 @@ Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvo
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" alt="VSCode" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="30" width="30" alt="PyCharm" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" alt="GitHub" style="filter: brightness(0) invert(1);" />
+    <img src="https://img.shields.io/badge/-github-ffffff?style=flat-square&logo=github&logoColor=black" height="30" alt="GitHub" />
    
   </p>
 </div>
