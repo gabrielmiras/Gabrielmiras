@@ -3,10 +3,15 @@
 **`Estudante de DSM Fatec Indaiatuba`**
 
 <p align="center">
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Sempre+aprendendo+coisas+novas&font=Fira+Code&center=true&width=440&height=45&color=#101084&vCenter=true&pause=3000&size=22" />
+
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=#101084&vCenter=true&pause=3000&size=22" />
+
   </a>
+
 </p>
+
 
 
 Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvolvimento de Software. Acredito que a melhor forma de aprender é fazendo, por isso foco meu tempo na criação de projetos e na realização de cursos. Estou no início da minha jornada, mas com foco total em me tornar um desenvolvedor de alto nível e construir um portfólio sólido.
