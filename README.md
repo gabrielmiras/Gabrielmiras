@@ -55,17 +55,18 @@ Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvo
 
 ------
 
-
 <div style="flex-basis: 48%;">
   <h3>Ferramentas e estruturas</h3>
   <p align="left">
-    <img align="center" alt="VSCode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="PyCharm" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-     <img src="https://skillicons.dev/icons?i=github" width="40" />   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" alt="VSCode" />
+    
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="30" width="30" alt="PyCharm" />
+    
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="Git" />
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" alt="GitHub" />
   </p>
 </div>
-
 --------
   <!-- GIF -->
 <p align="left">
