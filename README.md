@@ -52,14 +52,12 @@ Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvo
 ### 💻 Ferramentas e estruturas 
 <div style="flex-basis: 48%;"> 
   <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" alt="VSCode" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="30" width="30" alt="PyCharm" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" alt="VSCode" /><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="30" width="30" alt="PyCharm" /><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="Git" /><br>
     <img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub" />
   </p>
 </div>
-<hr>
-</hr>
   <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
