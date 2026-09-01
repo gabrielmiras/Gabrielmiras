@@ -111,7 +111,7 @@ Olá! Meu nome é Gabriel Miranda e estou iniciando minha trajetória no Desenvo
     src="https://skillicons.dev/icons?i=github" 
 />
 
-<br/>
+<br>
 <br/>
   <!-- GIF -->
 <p align="left">
